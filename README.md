@@ -9,7 +9,7 @@ Python Script to get ip,dns record and server status code of a remote host
 Use git to clone the repo to your Local machine
 
 ```
-git  clone  
+git  clone  https://github.com/fluffyP4nd4/simple-Networking-tool.git
 ``` 
 ## Prerequisite
 
