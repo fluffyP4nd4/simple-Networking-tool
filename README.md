@@ -1,7 +1,7 @@
 # Simple Python Networking Info Script
 Python Script to get ip,dns record and server status code of a remote host
 
-![snet]()
+![snet](https://github.com/fluffyP4nd4/simple-Networking-tool/blob/main/img.png)
 
 
 ## Installation
